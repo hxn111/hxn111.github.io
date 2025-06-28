@@ -11,7 +11,3 @@ I am Xinning He.
 
 Research Interests
 ======
-
-
-News
-======
